@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+cupSize: B
+content: "cupSize: ${cupSize}"
+
+hero:
+  name: meiguoduizhang
+  age: 100

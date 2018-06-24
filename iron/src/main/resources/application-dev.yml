@@ -1,0 +1,8 @@
+server:
+  port: 8080
+cupSize: B
+content: "cupSize: ${cupSize}"
+
+hero:
+  name: gangtiexia
+  age: 40
